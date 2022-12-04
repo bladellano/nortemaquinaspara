@@ -127,10 +127,10 @@
 					</div>
 
 					<div class="col-md-3"><h2>Produtos</h2><hr><p class="text-justify">
-						<?php include_once('includes/produtos.php'); ?>
+						<?php  //include_once('includes/produtos.php'); ?>
 					</div>
 					<div class="col-md-6"><h2 class="">Notícias</h2><hr><p class="text-justify">
-						<?php include_once('includes/noticias.php'); ?>
+						<?php // include_once('includes/noticias.php'); ?>
 					</div>
 
 				</div>

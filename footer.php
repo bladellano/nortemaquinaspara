@@ -62,7 +62,7 @@
 		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
 
 
-		<script src="http://code.jquery.com/jquery-3.3.1.js"></script>
+		<script src="js/jquery.min.js"></script>
 		<!-- Script para esconder caixa -->
 		<script>
 			$('.box span').click(function(){
